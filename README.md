@@ -3,24 +3,24 @@
 <h3 align="center">🚀 Passionate Full Stack Developer from India</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=aryadishant414&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=devilal8094&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" /> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryadishant414&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilal8094&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=aryadishant414&theme=onedark" alt="GitHub Profile Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devilal8094&theme=onedark" alt="GitHub Profile Trophy" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryadishant414&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devilal8094&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryadishant414&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilal8094&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <h3 align="center">🔭 Currently working at</h3>
