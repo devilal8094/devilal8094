@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi there, I'm Dishant Arya</h1>
+<h1 align="center">👋 Hi there, I'm Dev Chouhan</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer from India</h3>
 
 <p align="center"> 
@@ -44,24 +44,24 @@
 
 <h3 align="center">📫 Reach me at</h3>
 <p align="center">
-  aryadishant414@gmail.com
+ devilalchouhan884@gmail.com
 </p>
 
 <h3 align="center">💬 Ask me about</h3>
 <p align="center">
-  Javascript , React, Node.js, DSA , MySql
+  Html, Css, Bootstrap, Javascript 
 </p>
 
 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/dishant-arya-59838a235" target="_blank">
+  <a href="https://www.linkedin.com/in/devilal-chouhan-376742262/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/aryadishant414/" target="_blank">
+<!--   <a href="https://leetcode.com/u/aryadishant414/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+  </a> -->
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
