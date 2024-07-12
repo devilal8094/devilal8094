@@ -49,7 +49,7 @@
 
 <h3 align="center">💬 Ask me about</h3>
 <p align="center">
-  Html, Css, Bootstrap, Javascript 
+  Html, Css, Bootstrap, tailwind, Javascript 
 </p>
 
 
